@@ -117,13 +117,14 @@ display containers :-  NAME  - STATUS  -  CONFIG FILES
 ### Dev Container
 [Dev Container Online Class 06: What is Dev Container (Development inside Containers) - Docker](https://www.youtube.com/watch?v=h32qw986-tI)
 
+
 **Github**
 
 ### Docker
 05_microservices_all_in_one_platform/14_docker
 [Docker for Microservices](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker)
 
-**Production Dockerfile**
+**Production Dockerfile explanation**
 
 05_microservices_all_in_one_platform/14_docker/01_containerizing_poetry
 [Containerizing a Poetry Project](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker/01_containerizing_poetry)
@@ -135,6 +136,7 @@ display containers :-  NAME  - STATUS  -  CONFIG FILES
 
 05_microservices_all_in_one_platform/14_docker/07_synchronous_messages
 [Synchronous Inter Services Messages between Microservices](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker/07_synchronous_messages)
+
 
 ### Event-driven architecture (EDA)
 [05_microservices_all_in_one_platform/15_event_driven](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven)
