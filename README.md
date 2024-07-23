@@ -104,42 +104,39 @@ display containers :-  NAME  - STATUS  -  CONFIG FILES
 
 **video**
 
-(Portobuf)
-GenAI Quarter 5 Online Class 14: Protobuf in Kafka & Introduction to Kong - An API Gateway
-https://www.youtube.com/watch?v=nMXMV48EiQA
+#### Portobuf
+[GenAI Quarter 5 Online Class 14: Protobuf in Kafka & Introduction to Kong - An API Gateway](https://www.youtube.com/watch?v=nMXMV48EiQA)
 
-GenAI Quarter 5 Online Class 13: Serialization and Deserialization Kafka Messages
-https://www.youtube.com/watch?v=qVbAYHxW3xg
+[GenAI Quarter 5 Online Class 13: Serialization and Deserialization Kafka Messages](https://www.youtube.com/watch?v=qVbAYHxW3xg)
 
-(Pg Admin)
-GenAI Quarter 5 Online Class 08: Docker Compose - Running Multi Containers with Docker Compose
-https://www.youtube.com/watch?v=l5eZMAhDwhQ&t=3117s
+#### Pg Admin
+[GenAI Quarter 5 Online Class 08: Docker Compose - Running Multi Containers with Docker Compose](https://www.youtube.com/watch?v=l5eZMAhDwhQ&t=3117s)
 
-GenAI Quarter 5 Online Class 07: Docker Compose - Orchestrate Multi-Container Applications with Ease
-https://www.youtube.com/watch?v=cpu44VE_J1I&t=5554s 
+[GenAI Quarter 5 Online Class 07: Docker Compose - Orchestrate Multi-Container Applications with Ease](https://www.youtube.com/watch?v=cpu44VE_J1I&t=5554s) 
 
-(Dev Container)
-Dev Container Online Class 06: What is Dev Container (Development inside Containers) - Docker
-https://www.youtube.com/watch?v=h32qw986-tI
+### Dev Container
+[Dev Container Online Class 06: What is Dev Container (Development inside Containers) - Docker](https://www.youtube.com/watch?v=h32qw986-tI)
 
 **Github**
 
-#### Docker
+### Docker
 05_microservices_all_in_one_platform/14_docker
 [Docker for Microservices](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker)
 
 **Production Dockerfile**
+
 05_microservices_all_in_one_platform/14_docker/01_containerizing_poetry
 [Containerizing a Poetry Project](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker/01_containerizing_poetry)
 
 **Detailed explanation of the Docker Compose file:**
+
 05_microservices_all_in_one_platform/14_docker/05_compose_db
 [Docker Compose with Database Service](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker/05_compose_db)
 
 05_microservices_all_in_one_platform/14_docker/07_synchronous_messages
 [Synchronous Inter Services Messages between Microservices](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker/07_synchronous_messages)
 
-#### Event-driven architecture (EDA)
+### Event-driven architecture (EDA)
 [05_microservices_all_in_one_platform/15_event_driven](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven)
 
 05_microservices_all_in_one_platform/15_event_driven/00_eda_challenge
@@ -150,11 +147,12 @@ https://www.youtube.com/watch?v=h32qw986-tI
 
 
 **Detailed explanation of Protobuf Kafka Messaging**
+
 05_microservices_all_in_one_platform/15_event_driven/02_kafka_messaging
 [Protobuf Kafka Messaging](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven/03_protobuf)
 
 
-#### oauth2_auth
+### oauth2_auth
 05_microservices_all_in_one_platform/16_oauth2_auth
 [FastAPI OAuth2 Authentication and Authorization](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/16_oauth2_auth)
 
