@@ -122,17 +122,42 @@ https://www.youtube.com/watch?v=cpu44VE_J1I&t=5554s
 Dev Container Online Class 06: What is Dev Container (Development inside Containers) - Docker
 https://www.youtube.com/watch?v=h32qw986-tI
 
-
 **Github**
 
+#### Docker
+05_microservices_all_in_one_platform/14_docker
+[Docker for Microservices](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker)
 
-Docker Compose with Database Service (Github)
-https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker/05_compose_db
+**Production Dockerfile**
+05_microservices_all_in_one_platform/14_docker/01_containerizing_poetry
+[Containerizing a Poetry Project](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker/01_containerizing_poetry)
 
-kafka_messaging (Github)
-https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven/02_kafka_messaging
+**Detailed explanation of the Docker Compose file:**
+05_microservices_all_in_one_platform/14_docker/05_compose_db
+[Docker Compose with Database Service](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker/05_compose_db)
 
-Protobuf Kafka Messaging (Github)
-https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven/03_protobuf
+05_microservices_all_in_one_platform/14_docker/07_synchronous_messages
+[Synchronous Inter Services Messages between Microservices](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker/07_synchronous_messages)
+
+#### Event-driven architecture (EDA)
+[05_microservices_all_in_one_platform/15_event_driven](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven)
+
+05_microservices_all_in_one_platform/15_event_driven/00_eda_challenge
+[A Challenge: FastAPI Event Driven Microservices Development With Kafka, KRaft, Docker Compose, and Poetry](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven/00_eda_challenge)
+
+05_microservices_all_in_one_platform/15_event_driven/02_kafka_messaging
+[kafka_messaging](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven/02_kafka_messaging)
+
+
+**Detailed explanation of Protobuf Kafka Messaging**
+05_microservices_all_in_one_platform/15_event_driven/02_kafka_messaging
+[Protobuf Kafka Messaging](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven/03_protobuf)
+
+
+#### oauth2_auth
+05_microservices_all_in_one_platform/16_oauth2_auth
+[FastAPI OAuth2 Authentication and Authorization](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/16_oauth2_auth)
+
+
 
 # docker_compose_db
