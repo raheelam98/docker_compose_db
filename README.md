@@ -104,14 +104,33 @@ display containers :-  NAME  - STATUS  -  CONFIG FILES
 
 #### Online Class
 
+
+### Modern Cloud Native AI (Playlist)
+[Modern Cloud Native AI Stack: Python, Poetry, Docker.. Online Class](https://www.youtube.com/playlist?list=PL0vKVrkG4hWqWNAr6rcX0gOvU_eOULnJN)
+
+### Docker (Playlist)
+[Complete Tutorial: Docker File, Image, Container](https://www.youtube.com/playlist?list=PL0vKVrkG4hWoTh2SaepYf9N8ywxz_Cyfx)
+
+### Apache Kafka (Playlist)
+[Event Driven Architecture](https://www.youtube.com/playlist?list=PL0vKVrkG4hWrlSxLssJeuyMKGIegYiUyz)
+
+### Generative AI with Cloud-Native Power (Playlist)
+[Microservices, Multi-Agent](https://www.youtube.com/playlist?list=PL0vKVrkG4hWpk12F7wO41kdFWhuXuigDW)
+
+### Cloud Deployment (Playlist)
+[Azure Container Apps](https://www.youtube.com/playlist?list=PL0vKVrkG4hWrqwmlQ6k8ArJ93BrwX6V4l)
+
+
+#### Docker Compose
+[GenAI Quarter 5 Online Class 08: Docker Compose - Running Multi Containers with Docker Compose](https://www.youtube.com/watch?v=l5eZMAhDwhQ&list=PL0vKVrkG4hWoTh2SaepYf9N8ywxz_Cyfx&index=6)
+
+#### Dev Container
+[Dev Container Online Class 06: What is Dev Container (Development inside Containers) - Docker](https://www.youtube.com/watch?v=h32qw986-tI)
+
 #### Kafka
 [GenAI Quarter 5 Online Class 12: Interact with Kafka using aiokafka - A Python Library for Kafka](https://www.youtube.com/watch?v=PAU05OrLgho)
 
 [GenAI Quarter 5 Online Class 13: Serialization and Deserialization Kafka Messages](https://www.youtube.com/watch?v=qVbAYHxW3xg&list=PL0vKVrkG4hWqWNAr6rcX0gOvU_eOULnJN&index=13)
-
-#### Modern Cloud Native AI
-[Modern Cloud Native AI Stack: Python, Poetry, Docker.. Online Class](https://www.youtube.com/playlist?list=PL0vKVrkG4hWqWNAr6rcX0gOvU_eOULnJN)
-
 
 #### Portobuf
 [GenAI Quarter 5 Online Class 14: Protobuf in Kafka & Introduction to Kong - An API Gateway](https://www.youtube.com/watch?v=nMXMV48EiQA)
@@ -122,9 +141,6 @@ display containers :-  NAME  - STATUS  -  CONFIG FILES
 [GenAI Quarter 5 Online Class 08: Docker Compose - Running Multi Containers with Docker Compose](https://www.youtube.com/watch?v=l5eZMAhDwhQ&t=3117s)
 
 [GenAI Quarter 5 Online Class 07: Docker Compose - Orchestrate Multi-Container Applications with Ease](https://www.youtube.com/watch?v=cpu44VE_J1I&t=5554s) 
-
-#### Dev Container
-[Dev Container Online Class 06: What is Dev Container (Development inside Containers) - Docker](https://www.youtube.com/watch?v=h32qw986-tI)
 
 
 #### Github
