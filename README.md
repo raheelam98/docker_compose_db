@@ -121,7 +121,7 @@ display containers :-  NAME  - STATUS  -  CONFIG FILES
 **Github**
 
 ### Docker
-05_microservices_all_in_one_platform/14_docker
+
 [Docker for Microservices](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker)
 
 **Production Dockerfile explanation**
@@ -140,7 +140,6 @@ display containers :-  NAME  - STATUS  -  CONFIG FILES
 
 ### Event-driven architecture (EDA)
 
-05_microservices_all_in_one_platform/15_event_driven
 [Event-driven](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven)
 
 05_microservices_all_in_one_platform/15_event_driven/00_eda_challenge
@@ -157,7 +156,7 @@ display containers :-  NAME  - STATUS  -  CONFIG FILES
 
 
 ### oauth2_auth
-05_microservices_all_in_one_platform/16_oauth2_auth
+
 [FastAPI OAuth2 Authentication and Authorization](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/16_oauth2_auth)
 
 
