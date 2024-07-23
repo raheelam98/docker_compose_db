@@ -139,7 +139,9 @@ display containers :-  NAME  - STATUS  -  CONFIG FILES
 
 
 ### Event-driven architecture (EDA)
-[05_microservices_all_in_one_platform/15_event_driven](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven)
+
+05_microservices_all_in_one_platform/15_event_driven
+[Event-driven](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven)
 
 05_microservices_all_in_one_platform/15_event_driven/00_eda_challenge
 [A Challenge: FastAPI Event Driven Microservices Development With Kafka, KRaft, Docker Compose, and Poetry](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven/00_eda_challenge)
