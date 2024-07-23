@@ -125,12 +125,10 @@ display containers :-  NAME  - STATUS  -  CONFIG FILES
 [Docker for Microservices](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker)
 
 **Production Dockerfile explanation**
-
 05_microservices_all_in_one_platform/14_docker/01_containerizing_poetry
 [Containerizing a Poetry Project](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker/01_containerizing_poetry)
 
 **Detailed explanation of the Docker Compose file:**
-
 05_microservices_all_in_one_platform/14_docker/05_compose_db
 [Docker Compose with Database Service](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/14_docker/05_compose_db)
 
@@ -150,7 +148,6 @@ display containers :-  NAME  - STATUS  -  CONFIG FILES
 
 
 **Detailed explanation of Protobuf Kafka Messaging**
-
 05_microservices_all_in_one_platform/15_event_driven/02_kafka_messaging
 [Protobuf Kafka Messaging](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/15_event_driven/03_protobuf)
 
@@ -158,6 +155,8 @@ display containers :-  NAME  - STATUS  -  CONFIG FILES
 ### oauth2_auth
 
 [FastAPI OAuth2 Authentication and Authorization](https://github.com/panaverse/learn-generative-ai/tree/main/05_microservices_all_in_one_platform/16_oauth2_auth)
+
+
 
 
 
