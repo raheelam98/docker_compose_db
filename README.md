@@ -102,7 +102,16 @@ display containers :-  NAME  - STATUS  -  CONFIG FILES
 </div>
 
 
-**video**
+#### Online Class
+
+#### Kafka
+[GenAI Quarter 5 Online Class 12: Interact with Kafka using aiokafka - A Python Library for Kafka](https://www.youtube.com/watch?v=PAU05OrLgho)
+
+[GenAI Quarter 5 Online Class 13: Serialization and Deserialization Kafka Messages](https://www.youtube.com/watch?v=qVbAYHxW3xg&list=PL0vKVrkG4hWqWNAr6rcX0gOvU_eOULnJN&index=13)
+
+#### Modern Cloud Native AI
+[Modern Cloud Native AI Stack: Python, Poetry, Docker.. Online Class](https://www.youtube.com/playlist?list=PL0vKVrkG4hWqWNAr6rcX0gOvU_eOULnJN)
+
 
 #### Portobuf
 [GenAI Quarter 5 Online Class 14: Protobuf in Kafka & Introduction to Kong - An API Gateway](https://www.youtube.com/watch?v=nMXMV48EiQA)
@@ -118,7 +127,7 @@ display containers :-  NAME  - STATUS  -  CONFIG FILES
 [Dev Container Online Class 06: What is Dev Container (Development inside Containers) - Docker](https://www.youtube.com/watch?v=h32qw986-tI)
 
 
-**Github**
+#### Github
 
 ### Docker
 
